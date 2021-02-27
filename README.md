@@ -4,4 +4,4 @@ This repository contains a .py file for Sentiment Analysis on a set of Twitter A
 
 This project is similar to that of Social Media Extremism, except in that project implementation of knowledge graph is also generated.
 
-After completion of the code the result is sentiment_scores are generated using Analysis of thousands of Twitter API's.
+After completion of the code the result are sentiment_scores generated using Analysis of thousands of Twitter API's.
